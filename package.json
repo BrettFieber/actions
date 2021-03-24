@@ -1,0 +1,23 @@
+{
+  "name": "actions",
+  "version": "1.0.0",
+  "description": "experiments with GitHub Actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrettFieber/actions.git"
+  },
+  "keywords": [],
+  "author": "Brett Fieber <bfieber@loanpal.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrettFieber/actions/issues"
+  },
+  "homepage": "https://github.com/BrettFieber/actions#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
